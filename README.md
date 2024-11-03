@@ -1,3 +1,3 @@
 # QCF-ATI-Submissions
 
-Please create a folder and upload your code for your project into that folder
+Please upload your Jupyter Notebook file in the format firstName-lastName-techIndicator.ipynb within the submissions folder.
